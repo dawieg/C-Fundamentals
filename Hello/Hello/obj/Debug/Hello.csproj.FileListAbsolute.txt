@@ -1,0 +1,5 @@
+C:\C# Project Training\Hello\Hello\bin\Debug\Hello.exe.config
+C:\C# Project Training\Hello\Hello\bin\Debug\Hello.exe
+C:\C# Project Training\Hello\Hello\bin\Debug\Hello.pdb
+C:\C# Project Training\Hello\Hello\obj\Debug\Hello.exe
+C:\C# Project Training\Hello\Hello\obj\Debug\Hello.pdb
