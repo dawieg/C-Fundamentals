@@ -1,1 +1,0 @@
-C:\C# Project Training\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
