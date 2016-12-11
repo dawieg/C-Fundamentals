@@ -7,3 +7,9 @@ C:\C# Project Training\Grades\Grades\bin\Debug\Grades.exe
 C:\C# Project Training\Grades\Grades\bin\Debug\Grades.pdb
 C:\C# Project Training\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 C:\C# Project Training\Grades\Grades\obj\Debug\Grades.exe
+C:\C# Training\Grades\Grades\bin\Debug\Grades.exe.config
+C:\C# Training\Grades\Grades\obj\Debug\Grades.exe
+C:\C# Training\Grades\Grades\obj\Debug\Grades.pdb
+C:\C# Training\Grades\Grades\bin\Debug\Grades.exe
+C:\C# Training\Grades\Grades\bin\Debug\Grades.pdb
+C:\C# Training\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
