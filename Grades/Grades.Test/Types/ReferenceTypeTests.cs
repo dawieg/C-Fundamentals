@@ -60,8 +60,7 @@ namespace Grades.Test.Types
         {
             number += 1;
         }
-
-
+        
         [TestMethod]
         public void ReferenceTypesPassByValues()
         {
