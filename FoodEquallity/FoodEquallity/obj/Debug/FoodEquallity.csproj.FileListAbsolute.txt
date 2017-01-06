@@ -1,0 +1,1 @@
+C:\C# Project Training\FoodEquallity\FoodEquallity\bin\Debug\FoodEquallity.exe.config
