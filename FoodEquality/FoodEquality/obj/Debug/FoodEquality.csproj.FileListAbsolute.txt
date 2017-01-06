@@ -4,9 +4,3 @@ C:\C# Project Training\FoodEquality\FoodEquality\bin\Debug\FoodEquality.pdb
 C:\C# Project Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.csprojResolveAssemblyReference.cache
 C:\C# Project Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.exe
 C:\C# Project Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.pdb
-C:\Development\Training\FoodEquality\FoodEquality\bin\Debug\FoodEquality.exe.config
-C:\Development\Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.exe
-C:\Development\Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.pdb
-C:\Development\Training\FoodEquality\FoodEquality\bin\Debug\FoodEquality.exe
-C:\Development\Training\FoodEquality\FoodEquality\bin\Debug\FoodEquality.pdb
-C:\Development\Training\FoodEquality\FoodEquality\obj\Debug\FoodEquality.csprojResolveAssemblyReference.cache
